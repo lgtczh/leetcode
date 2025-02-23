@@ -20,6 +20,7 @@
         <module>assign-cookies</module>
         <module>jump-game</module>
         <module>jump-game-ii</module>
+        <module>is-subsequence</module>
     </modules>
 
     <properties>
