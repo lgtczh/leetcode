@@ -19,6 +19,7 @@
         <module>lemonade-change</module>
         <module>assign-cookies</module>
         <module>jump-game</module>
+        <module>jump-game-ii</module>
     </modules>
 
     <properties>

@@ -2,6 +2,8 @@
 
 ## 贪心算法
 
+### [45. 跳跃游戏 II](jump-game-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [55. 跳跃游戏](jump-game/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [56. 合并区间](merge-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
