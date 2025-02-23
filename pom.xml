@@ -18,6 +18,7 @@
         <module>merge-intervals</module>
         <module>lemonade-change</module>
         <module>assign-cookies</module>
+        <module>jump-game</module>
     </modules>
 
     <properties>
