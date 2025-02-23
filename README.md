@@ -6,4 +6,6 @@
 
 ### [435. 无重叠区间](./non-overlapping-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [452. 用最少数量的箭引爆气球](minimum-number-of-arrows-to-burst-balloons/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [1029. 两地调度](two-city-scheduling/src/main/java/priv/lgtczh/leetcode/Solution.java)
