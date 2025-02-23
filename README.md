@@ -2,7 +2,9 @@
 
 ## 贪心算法
 
-### [56. 合并区间  ](merge-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [55. 跳跃游戏](jump-game/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+### [56. 合并区间](merge-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [134. 加油站](./gas-station/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
