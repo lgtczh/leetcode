@@ -17,6 +17,7 @@
         <module>minimum-number-of-arrows-to-burst-balloons</module>
         <module>merge-intervals</module>
         <module>lemonade-change</module>
+        <module>assign-cookies</module>
     </modules>
 
     <properties>
