@@ -15,6 +15,7 @@
         <module>non-overlapping-intervals</module>
         <module>two-city-scheduling</module>
         <module>minimum-number-of-arrows-to-burst-balloons</module>
+        <module>merge-intervals</module>
     </modules>
 
     <properties>
