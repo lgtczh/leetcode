@@ -26,6 +26,8 @@
 
 ### [1029. 两地调度](two-city-scheduling/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [1710. 卡车上的最大单元数](maximum-units-on-a-truck/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ## 动态规划
 
 ### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
