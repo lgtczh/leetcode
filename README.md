@@ -28,6 +28,8 @@
 
 ### [1217. 玩筹码](minimum-cost-to-move-chips-to-the-same-position/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [1247. 交换字符使得字符串相同](minimum-swaps-to-make-strings-equal/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [1710. 卡车上的最大单元数](maximum-units-on-a-truck/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ## 动态规划
