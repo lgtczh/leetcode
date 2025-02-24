@@ -23,6 +23,10 @@
         <module>is-subsequence</module>
         <module>array-partition</module>
         <module>best-time-to-buy-and-sell-stock-ii</module>
+        <module>maximum-units-on-a-truck</module>
+        <module>minimum-cost-to-move-chips-to-the-same-position</module>
+        <module>minimum-swaps-to-make-strings-equal</module>
+        <module>construct-k-palindrome-strings</module>
     </modules>
 
     <properties>
