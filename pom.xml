@@ -27,6 +27,7 @@
         <module>minimum-cost-to-move-chips-to-the-same-position</module>
         <module>minimum-swaps-to-make-strings-equal</module>
         <module>construct-k-palindrome-strings</module>
+        <module>minimum-add-to-make-parentheses-valid</module>
     </modules>
 
     <properties>

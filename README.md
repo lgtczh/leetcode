@@ -24,6 +24,8 @@
 
 ### [860. 柠檬水找零](lemonade-change/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [921. 使括号有效的最少添加](minimum-add-to-make-parentheses-valid/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [1029. 两地调度](two-city-scheduling/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [1217. 玩筹码](minimum-cost-to-move-chips-to-the-same-position/src/main/java/priv/lgtczh/leetcode/Solution.java)
