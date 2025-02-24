@@ -22,6 +22,7 @@
         <module>jump-game-ii</module>
         <module>is-subsequence</module>
         <module>array-partition</module>
+        <module>best-time-to-buy-and-sell-stock-ii</module>
     </modules>
 
     <properties>
