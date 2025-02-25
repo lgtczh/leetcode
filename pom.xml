@@ -28,6 +28,7 @@
         <module>minimum-swaps-to-make-strings-equal</module>
         <module>construct-k-palindrome-strings</module>
         <module>minimum-add-to-make-parentheses-valid</module>
+        <module>find-valid-matrix-given-row-and-column-sums</module>
     </modules>
 
     <properties>
