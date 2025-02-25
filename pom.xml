@@ -29,6 +29,7 @@
         <module>construct-k-palindrome-strings</module>
         <module>minimum-add-to-make-parentheses-valid</module>
         <module>find-valid-matrix-given-row-and-column-sums</module>
+        <module>candy</module>
     </modules>
 
     <properties>
