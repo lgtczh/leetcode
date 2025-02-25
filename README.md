@@ -12,6 +12,8 @@
 
 ### [134. 加油站](./gas-station/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [135. 分发糖果](candy/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [392. 判断子序列](is-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [435. 无重叠区间](./non-overlapping-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
