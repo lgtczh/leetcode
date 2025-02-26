@@ -30,6 +30,7 @@
         <module>minimum-add-to-make-parentheses-valid</module>
         <module>find-valid-matrix-given-row-and-column-sums</module>
         <module>candy</module>
+        <module>maximum-subarray</module>
     </modules>
 
     <properties>
