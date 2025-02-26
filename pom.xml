@@ -31,6 +31,7 @@
         <module>find-valid-matrix-given-row-and-column-sums</module>
         <module>candy</module>
         <module>maximum-subarray</module>
+        <module>monotone-increasing-digits</module>
     </modules>
 
     <properties>
