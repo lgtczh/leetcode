@@ -24,6 +24,8 @@
 
 ### [561. 数组拆分](array-partition/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [738. 单调递增的数字](monotone-increasing-digits/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [860. 柠檬水找零](lemonade-change/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [921. 使括号有效的最少添加](minimum-add-to-make-parentheses-valid/src/main/java/priv/lgtczh/leetcode/Solution.java)
