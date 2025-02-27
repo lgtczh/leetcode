@@ -32,6 +32,7 @@
         <module>candy</module>
         <module>maximum-subarray</module>
         <module>monotone-increasing-digits</module>
+        <module>remove-k-digits</module>
     </modules>
 
     <properties>
