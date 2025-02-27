@@ -16,6 +16,8 @@
 
 ### [392. 判断子序列](is-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [402. 移掉 K 位数字](remove-k-digits/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [435. 无重叠区间](./non-overlapping-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [452. 用最少数量的箭引爆气球](minimum-number-of-arrows-to-burst-balloons/src/main/java/priv/lgtczh/leetcode/Solution.java)
