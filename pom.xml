@@ -37,6 +37,7 @@
         <module>wiggle-subsequence</module>
         <module>unique-paths</module>
         <module>unique-paths-ii</module>
+        <module>min-cost-climbing-stairs</module>
     </modules>
 
     <properties>
