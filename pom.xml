@@ -33,6 +33,7 @@
         <module>maximum-subarray</module>
         <module>monotone-increasing-digits</module>
         <module>remove-k-digits</module>
+        <module>score-after-flipping-matrix</module>
     </modules>
 
     <properties>
