@@ -14,6 +14,8 @@
 
 ### [135. 分发糖果](candy/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [376. 摆动序列](wiggle-subsequence/src/main/java/priv/lgtczh/leetcode/greedy/Solution.java)
+
 ### [392. 判断子序列](is-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [402. 移掉 K 位数字](remove-k-digits/src/main/java/priv/lgtczh/leetcode/Solution.java)
@@ -51,3 +53,5 @@
 ### [53. 最大子数组和](maximum-subarray/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
 ### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+
+### [376. 摆动序列](wiggle-subsequence/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
