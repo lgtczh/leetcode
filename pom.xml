@@ -35,6 +35,7 @@
         <module>remove-k-digits</module>
         <module>score-after-flipping-matrix</module>
         <module>wiggle-subsequence</module>
+        <module>unique-paths</module>
         <module>unique-paths-ii</module>
     </modules>
 
