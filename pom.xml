@@ -38,6 +38,7 @@
         <module>unique-paths</module>
         <module>unique-paths-ii</module>
         <module>min-cost-climbing-stairs</module>
+        <module>fibonacci-number</module>
     </modules>
 
     <properties>
