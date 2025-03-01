@@ -1,5 +1,7 @@
 ### [28. 找出字符串中第一个匹配项的下标](./find-the-index-of-the-first-occurrence-in-a-string/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [343. 整数拆分](integer-break/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ## 贪心算法
 
 ### [45. 跳跃游戏 II](jump-game-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
@@ -57,6 +59,8 @@
 ### [63. 不同路径 II](unique-paths-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+
+### [343. 整数拆分](integer-break/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
 ### [376. 摆动序列](wiggle-subsequence/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
