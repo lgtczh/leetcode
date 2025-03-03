@@ -41,6 +41,7 @@
         <module>fibonacci-number</module>
         <module>integer-break</module>
         <module>unique-binary-search-trees</module>
+        <module>partition-equal-subset-sum</module>
     </modules>
 
     <properties>
