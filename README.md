@@ -66,6 +66,8 @@
 
 ### [376. 摆动序列](wiggle-subsequence/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
+### [416. 分割等和子集](partition-equal-subset-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 
