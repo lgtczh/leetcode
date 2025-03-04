@@ -70,6 +70,7 @@
 
 ### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [1049. 最后一块石头的重量 II](last-stone-weight-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
