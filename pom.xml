@@ -42,6 +42,7 @@
         <module>integer-break</module>
         <module>unique-binary-search-trees</module>
         <module>partition-equal-subset-sum</module>
+        <module>last-stone-weight-ii</module>
     </modules>
 
     <properties>
