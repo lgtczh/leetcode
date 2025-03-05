@@ -45,6 +45,7 @@
         <module>last-stone-weight-ii</module>
         <module>target-sum</module>
         <module>ones-and-zeroes</module>
+        <module>coin-change-ii</module>
     </modules>
 
     <properties>
