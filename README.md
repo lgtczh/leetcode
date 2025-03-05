@@ -68,6 +68,8 @@
 
 ### [416. 分割等和子集](partition-equal-subset-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [494. 目标和](target-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [1049. 最后一块石头的重量 II](last-stone-weight-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)

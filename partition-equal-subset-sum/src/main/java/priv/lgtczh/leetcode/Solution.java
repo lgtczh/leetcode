@@ -6,6 +6,9 @@ import java.util.Arrays;
  * <a href="https://leetcode.cn/problems/partition-equal-subset-sum">LeetCode 416. 分割等和子集</a>
  */
 class Solution {
+    /**
+     * 动态规划: 01背包问题
+     */
     public boolean canPartition(int[] nums) {
         int sum = Arrays.stream(nums).sum();
         if (sum % 2 == 1) {
