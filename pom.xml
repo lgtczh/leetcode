@@ -43,6 +43,7 @@
         <module>unique-binary-search-trees</module>
         <module>partition-equal-subset-sum</module>
         <module>last-stone-weight-ii</module>
+        <module>target-sum</module>
     </modules>
 
     <properties>

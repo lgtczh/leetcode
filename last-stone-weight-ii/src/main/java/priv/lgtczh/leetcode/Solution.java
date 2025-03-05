@@ -6,6 +6,9 @@ import java.util.Arrays;
  * <a href="https://leetcode.cn/problems/last-stone-weight-ii">LeetCode 1049. 最后一块石头的重量 II</a>
  */
 class Solution {
+    /**
+     * 动态规划: 01背包问题
+     */
     public int lastStoneWeightII(int[] stones) {
         int sum = Arrays.stream(stones).sum();
         int target = sum / 2;
