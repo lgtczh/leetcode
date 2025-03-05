@@ -44,6 +44,7 @@
         <module>partition-equal-subset-sum</module>
         <module>last-stone-weight-ii</module>
         <module>target-sum</module>
+        <module>ones-and-zeroes</module>
     </modules>
 
     <properties>
