@@ -68,6 +68,8 @@
 
 ### [416. 分割等和子集](partition-equal-subset-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [474. 一和零](ones-and-zeroes/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [494. 目标和](target-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
