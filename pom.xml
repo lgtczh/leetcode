@@ -49,6 +49,7 @@
         <module>word-break</module>
         <module>combination-sum-iv</module>
         <module>coin-change</module>
+        <module>perfect-squares</module>
     </modules>
 
     <properties>
