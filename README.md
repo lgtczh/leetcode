@@ -67,6 +67,8 @@
 
 #### [139. 单词拆分](word-break/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [322. 零钱兑换](coin-change/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 #### [377. 组合总和 Ⅳ](combination-sum-iv/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [518. 零钱兑换 II](coin-change-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
