@@ -50,6 +50,7 @@
         <module>combination-sum-iv</module>
         <module>coin-change</module>
         <module>perfect-squares</module>
+        <module>house-robber</module>
     </modules>
 
     <properties>
