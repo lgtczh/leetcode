@@ -50,35 +50,43 @@
 
 ### [1710. 卡车上的最大单元数](maximum-units-on-a-truck/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+
 ## 动态规划
 
-### [53. 最大子数组和](maximum-subarray/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+### 01背包问题
 
-### [62. 不同路径](unique-paths/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [416. 分割等和子集](partition-equal-subset-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [63. 不同路径 II](unique-paths-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [474. 一和零](ones-and-zeroes/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [96. 不同的二叉搜索树](unique-binary-search-trees/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [494. 目标和](target-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+#### [1049. 最后一块石头的重量 II](last-stone-weight-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [139. 单词拆分](word-break/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### 完全背包问题
 
-### [343. 整数拆分](integer-break/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+#### [139. 单词拆分](word-break/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [376. 摆动序列](wiggle-subsequence/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+#### [518. 零钱兑换 II](coin-change-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [416. 分割等和子集](partition-equal-subset-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### 其它问题
 
-### [474. 一和零](ones-and-zeroes/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [53. 最大子数组和](maximum-subarray/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
-### [494. 目标和](target-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [62. 不同路径](unique-paths/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [63. 不同路径 II](unique-paths-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [518. 零钱兑换 II](coin-change-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [96. 不同的二叉搜索树](unique-binary-search-trees/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-### [1049. 最后一块石头的重量 II](last-stone-weight-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
+#### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+
+#### [343. 整数拆分](integer-break/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+
+#### [376. 摆动序列](wiggle-subsequence/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
+
+#### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
