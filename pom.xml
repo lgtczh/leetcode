@@ -46,6 +46,7 @@
         <module>target-sum</module>
         <module>ones-and-zeroes</module>
         <module>coin-change-ii</module>
+        <module>word-break</module>
     </modules>
 
     <properties>
