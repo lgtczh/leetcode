@@ -47,6 +47,7 @@
         <module>ones-and-zeroes</module>
         <module>coin-change-ii</module>
         <module>word-break</module>
+        <module>combination-sum-iv</module>
     </modules>
 
     <properties>
