@@ -51,6 +51,7 @@
         <module>coin-change</module>
         <module>perfect-squares</module>
         <module>house-robber</module>
+        <module>house-robber-ii</module>
     </modules>
 
     <properties>
