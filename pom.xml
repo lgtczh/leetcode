@@ -52,6 +52,7 @@
         <module>perfect-squares</module>
         <module>house-robber</module>
         <module>house-robber-ii</module>
+        <module>house-robber-iii</module>
     </modules>
 
     <properties>
