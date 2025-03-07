@@ -10,6 +10,8 @@
 
 ### [56. 合并区间](merge-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [121. 买卖股票的最佳时机](best-time-to-buy-and-sell-stock/src/main/java/priv/lgtczh/leetcode/greedy/Solution.java)
+
 ### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/greedy/Solution.java)
 
 ### [134. 加油站](./gas-station/src/main/java/priv/lgtczh/leetcode/Solution.java)
@@ -84,6 +86,8 @@
 #### [63. 不同路径 II](unique-paths-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [96. 不同的二叉搜索树](unique-binary-search-trees/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+#### [121. 买卖股票的最佳时机](best-time-to-buy-and-sell-stock/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
 #### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
 
