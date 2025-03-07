@@ -53,6 +53,7 @@
         <module>house-robber</module>
         <module>house-robber-ii</module>
         <module>house-robber-iii</module>
+        <module>best-time-to-buy-and-sell-stock</module>
     </modules>
 
     <properties>
