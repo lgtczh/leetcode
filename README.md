@@ -109,6 +109,8 @@
 
 #### [718. 最长重复子数组](maximum-length-of-repeated-subarray/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [1143. 最长公共子序列](longest-common-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
