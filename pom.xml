@@ -58,6 +58,7 @@
         <module>longest-continuous-increasing-subsequence</module>
         <module>maximum-length-of-repeated-subarray</module>
         <module>longest-common-subsequence</module>
+        <module>uncrossed-lines</module>
     </modules>
 
     <properties>
