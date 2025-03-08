@@ -57,6 +57,7 @@
         <module>longest-increasing-subsequence</module>
         <module>longest-continuous-increasing-subsequence</module>
         <module>maximum-length-of-repeated-subarray</module>
+        <module>longest-common-subsequence</module>
     </modules>
 
     <properties>
