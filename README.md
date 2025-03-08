@@ -95,6 +95,8 @@
 
 #### [213. 打家劫舍 II](house-robber-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [300. 最长递增子序列](longest-increasing-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 #### [337. 打家劫舍 III](house-robber-iii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [343. 整数拆分](integer-break/src/main/java/priv/lgtczh/leetcode/dynamic_programming/Solution.java)
