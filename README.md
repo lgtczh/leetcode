@@ -105,6 +105,8 @@
 
 #### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [674. 最长连续递增序列](longest-continuous-increasing-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
