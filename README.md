@@ -107,6 +107,8 @@
 
 #### [674. 最长连续递增序列](longest-continuous-increasing-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [718. 最长重复子数组](maximum-length-of-repeated-subarray/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
