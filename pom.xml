@@ -59,6 +59,7 @@
         <module>maximum-length-of-repeated-subarray</module>
         <module>longest-common-subsequence</module>
         <module>uncrossed-lines</module>
+        <module>delete-operation-for-two-strings</module>
     </modules>
 
     <properties>
