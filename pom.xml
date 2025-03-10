@@ -60,6 +60,7 @@
         <module>longest-common-subsequence</module>
         <module>uncrossed-lines</module>
         <module>delete-operation-for-two-strings</module>
+        <module>edit-distance</module>
     </modules>
 
     <properties>
