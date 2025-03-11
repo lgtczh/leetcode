@@ -107,6 +107,8 @@
 
 #### [509. 斐波那契数](fibonacci-number/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [516. 最长回文子序列](longest-palindromic-subsequence/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 #### [583. 两个字符串的删除操作](delete-operation-for-two-strings/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [647. 回文子串](palindromic-substrings/src/main/java/priv/lgtczh/leetcode/Solution.java)
