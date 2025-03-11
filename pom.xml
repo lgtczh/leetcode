@@ -61,6 +61,7 @@
         <module>uncrossed-lines</module>
         <module>delete-operation-for-two-strings</module>
         <module>edit-distance</module>
+        <module>palindromic-substrings</module>
     </modules>
 
     <properties>
