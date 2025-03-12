@@ -126,6 +126,8 @@
 
 #### [101. 对称二叉树](symmetric-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [111. 二叉树的最小深度](minimum-depth-of-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
