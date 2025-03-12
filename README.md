@@ -130,6 +130,8 @@
 
 #### [111. 二叉树的最小深度](minimum-depth-of-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [257. 二叉树的所有路径](binary-tree-paths/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
