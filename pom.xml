@@ -65,6 +65,7 @@
         <module>longest-palindromic-subsequence</module>
         <module>symmetric-tree</module>
         <module>minimum-depth-of-binary-tree</module>
+        <module>balanced-binary-tree</module>
     </modules>
 
     <properties>
