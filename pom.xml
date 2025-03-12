@@ -63,6 +63,7 @@
         <module>edit-distance</module>
         <module>palindromic-substrings</module>
         <module>longest-palindromic-subsequence</module>
+        <module>symmetric-tree</module>
     </modules>
 
     <properties>
