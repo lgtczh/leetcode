@@ -68,6 +68,7 @@
         <module>balanced-binary-tree</module>
         <module>binary-tree-paths</module>
         <module>sum-of-left-leaves</module>
+        <module>validate-binary-search-tree</module>
     </modules>
 
     <properties>

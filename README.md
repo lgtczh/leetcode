@@ -124,6 +124,8 @@
 
 ## 二叉树
 
+#### [98. 验证二叉搜索树](validate-binary-search-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 #### [101. 对称二叉树](symmetric-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [110. 平衡二叉树](balanced-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
