@@ -70,6 +70,7 @@
         <module>sum-of-left-leaves</module>
         <module>validate-binary-search-tree</module>
         <module>delete-node-in-a-bst</module>
+        <module>convert-sorted-array-to-binary-search-tree</module>
     </modules>
 
     <properties>
