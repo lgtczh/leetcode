@@ -136,6 +136,8 @@
 
 #### [404. 左叶子之和](sum-of-left-leaves/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+#### [450. 删除二叉搜索树中的节点](delete-node-in-a-bst/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
