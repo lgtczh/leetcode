@@ -69,6 +69,7 @@
         <module>binary-tree-paths</module>
         <module>sum-of-left-leaves</module>
         <module>validate-binary-search-tree</module>
+        <module>delete-node-in-a-bst</module>
     </modules>
 
     <properties>
