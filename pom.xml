@@ -71,6 +71,9 @@
         <module>validate-binary-search-tree</module>
         <module>delete-node-in-a-bst</module>
         <module>convert-sorted-array-to-binary-search-tree</module>
+        <module>binary-tree-preorder-traversal</module>
+        <module>binary-tree-inorder-traversal</module>
+        <module>binary-tree-postorder-traversal</module>
     </modules>
 
     <properties>

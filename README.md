@@ -124,6 +124,8 @@
 
 ## 二叉树
 
+#### [94. 二叉树的中序遍历](binary-tree-inorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 #### [98. 验证二叉搜索树](validate-binary-search-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [101. 对称二叉树](symmetric-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
@@ -133,6 +135,10 @@
 #### [110. 平衡二叉树](balanced-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [111. 二叉树的最小深度](minimum-depth-of-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+#### [144. 二叉树的前序遍历](binary-tree-preorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+#### [145. 二叉树的后序遍历](binary-tree-postorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 #### [257. 二叉树的所有路径](binary-tree-paths/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
