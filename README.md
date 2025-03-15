@@ -2,6 +2,10 @@
 
 ### [343. 整数拆分](integer-break/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+## 数组
+
+### [704. 二分查找](./binary-search/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ## 贪心算法
 
 ### [45. 跳跃游戏 II](jump-game-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
