@@ -74,6 +74,7 @@
         <module>binary-tree-preorder-traversal</module>
         <module>binary-tree-inorder-traversal</module>
         <module>binary-tree-postorder-traversal</module>
+        <module>binary-search</module>
     </modules>
 
     <properties>
