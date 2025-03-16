@@ -12,6 +12,12 @@
 
 ### [704. 二分查找](./binary-search/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+
+## 字符串
+
+### [844. 比较含退格的字符串](./backspace-string-compare/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+
 ## 贪心算法
 
 ### [45. 跳跃游戏 II](jump-game-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
@@ -159,3 +165,4 @@
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
+> 

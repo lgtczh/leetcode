@@ -78,6 +78,7 @@
         <module>remove-element</module>
         <module>remove-duplicates-from-sorted-array</module>
         <module>move-zeroes</module>
+        <module>backspace-string-compare</module>
     </modules>
 
     <properties>
