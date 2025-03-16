@@ -80,6 +80,7 @@
         <module>move-zeroes</module>
         <module>backspace-string-compare</module>
         <module>squares-of-a-sorted-array</module>
+        <module>minimum-size-subarray-sum</module>
     </modules>
 
     <properties>
