@@ -4,6 +4,8 @@
 
 ## 数组
 
+### [26. 删除有序数组中的重复项](./remove-duplicates-from-sorted-array/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [27. 移除元素](./remove-element/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [704. 二分查找](./binary-search/src/main/java/priv/lgtczh/leetcode/Solution.java)
