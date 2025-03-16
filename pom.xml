@@ -79,6 +79,7 @@
         <module>remove-duplicates-from-sorted-array</module>
         <module>move-zeroes</module>
         <module>backspace-string-compare</module>
+        <module>squares-of-a-sorted-array</module>
     </modules>
 
     <properties>

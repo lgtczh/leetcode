@@ -12,6 +12,8 @@
 
 ### [704. 二分查找](./binary-search/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [977. 有序数组的平方](./squares-of-a-sorted-array/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 ## 字符串
 
@@ -165,4 +167,4 @@
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
-> 
+>
