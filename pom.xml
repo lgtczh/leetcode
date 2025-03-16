@@ -76,6 +76,7 @@
         <module>binary-tree-postorder-traversal</module>
         <module>binary-search</module>
         <module>remove-element</module>
+        <module>remove-duplicates-from-sorted-array</module>
     </modules>
 
     <properties>
