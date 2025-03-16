@@ -4,6 +4,8 @@
 
 ## 数组
 
+### [27. 移除元素](./remove-element/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [704. 二分查找](./binary-search/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ## 贪心算法
