@@ -82,6 +82,7 @@
         <module>squares-of-a-sorted-array</module>
         <module>minimum-size-subarray-sum</module>
         <module>spiral-matrix-ii</module>
+        <module>reverse-string-ii</module>
     </modules>
 
     <properties>
