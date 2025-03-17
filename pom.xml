@@ -84,6 +84,7 @@
         <module>spiral-matrix-ii</module>
         <module>reverse-string-ii</module>
         <module>reverse-words-in-a-string</module>
+        <module>four-sum</module>
     </modules>
 
     <properties>
