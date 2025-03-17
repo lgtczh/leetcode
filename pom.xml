@@ -83,6 +83,7 @@
         <module>minimum-size-subarray-sum</module>
         <module>spiral-matrix-ii</module>
         <module>reverse-string-ii</module>
+        <module>reverse-words-in-a-string</module>
     </modules>
 
     <properties>
