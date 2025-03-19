@@ -87,6 +87,7 @@
         <module>four-sum</module>
         <module>implement-queue-using-stacks</module>
         <module>implement-stack-using-queues</module>
+        <module>intersection-of-two-linked-lists</module>
     </modules>
 
     <properties>
