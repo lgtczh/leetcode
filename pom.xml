@@ -86,6 +86,7 @@
         <module>reverse-words-in-a-string</module>
         <module>four-sum</module>
         <module>implement-queue-using-stacks</module>
+        <module>implement-stack-using-queues</module>
     </modules>
 
     <properties>

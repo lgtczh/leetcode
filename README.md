@@ -180,4 +180,6 @@
 >
 ## 栈与队列
 
+### [225. 用队列实现栈](./implement-stack-using-queues/src/main/java/priv/lgtczh/leetcode/MyStack.java)
+
 ### [232. 用栈实现队列](./implement-queue-using-stacks/src/main/java/priv/lgtczh/leetcode/MyQueue.java)
