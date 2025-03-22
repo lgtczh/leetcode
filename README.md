@@ -194,6 +194,8 @@
 
 ### [491. 非递减子序列](./non-decreasing-subsequences/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [47. 全排列 II](./permutations-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
 >
