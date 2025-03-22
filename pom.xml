@@ -88,6 +88,7 @@
         <module>implement-queue-using-stacks</module>
         <module>implement-stack-using-queues</module>
         <module>intersection-of-two-linked-lists</module>
+        <module>linked-list-cycle-ii</module>
     </modules>
 
     <properties>
