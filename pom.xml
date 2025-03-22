@@ -91,6 +91,7 @@
         <module>linked-list-cycle-ii</module>
         <module>palindrome-partitioning</module>
         <module>non-decreasing-subsequences</module>
+        <module>permutations-ii</module>
     </modules>
 
     <properties>
