@@ -90,6 +90,7 @@
         <module>intersection-of-two-linked-lists</module>
         <module>linked-list-cycle-ii</module>
         <module>palindrome-partitioning</module>
+        <module>non-decreasing-subsequences</module>
     </modules>
 
     <properties>

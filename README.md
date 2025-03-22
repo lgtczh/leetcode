@@ -192,6 +192,8 @@
 
 ### [131. 分割回文串](./palindrome-partitioning/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [491. 非递减子序列](./non-decreasing-subsequences/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
 >
