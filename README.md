@@ -190,6 +190,8 @@
 
 ### [40. 组合总和 II](./combination-sum-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [131. 分割回文串](./palindrome-partitioning/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
 >
