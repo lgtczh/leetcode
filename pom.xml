@@ -89,6 +89,7 @@
         <module>implement-stack-using-queues</module>
         <module>intersection-of-two-linked-lists</module>
         <module>linked-list-cycle-ii</module>
+        <module>combination-sum-ii</module>
     </modules>
 
     <properties>
