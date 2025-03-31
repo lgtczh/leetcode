@@ -95,6 +95,7 @@
         <module>percentage-of-letter-in-string</module>
         <module>adding-spaces-to-a-string</module>
         <module>minimize-string-length</module>
+        <module>string-to-integer-atoi</module>
     </modules>
 
     <properties>

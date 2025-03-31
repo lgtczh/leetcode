@@ -23,6 +23,8 @@
 
 ## 字符串
 
+### [8. 字符串转换整数 (atoi)](./string-to-integer-atoi/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [151. 反转字符串中的单词](./reverse-words-in-a-string/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [2278. 字母在字符串中的百分比](./percentage-of-letter-in-string/src/main/java/priv/lgtczh/leetcode/Solution.java)
