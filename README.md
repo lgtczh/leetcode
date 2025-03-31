@@ -25,6 +25,8 @@
 
 ### [151. 反转字符串中的单词](./reverse-words-in-a-string/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [2278. 字母在字符串中的百分比](./percentage-of-letter-in-string/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [541. 反转字符串 II](./reverse-string-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [844. 比较含退格的字符串](./backspace-string-compare/src/main/java/priv/lgtczh/leetcode/Solution.java)
@@ -38,7 +40,7 @@
 
 ### [56. 合并区间](merge-intervals/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [121. 买卖股票的最佳时机](best-time-to-buy-and-sell-stock/src/main/java/priv/lgtczh/leetcode/greedy/Solution.java)
+### [121. 买卖股票的最佳时机](best-time-to-buy-and-sell-stock/src/main/java/priv/lgtczh/leetcode/greedy/Solution.java)
 
 ### [122. 买卖股票的最佳时机 II](best-time-to-buy-and-sell-stock-ii/src/main/java/priv/lgtczh/leetcode/greedy/Solution.java)
 

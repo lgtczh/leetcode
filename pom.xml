@@ -92,6 +92,7 @@
         <module>palindrome-partitioning</module>
         <module>non-decreasing-subsequences</module>
         <module>permutations-ii</module>
+        <module>percentage-of-letter-in-string</module>
     </modules>
 
     <properties>
