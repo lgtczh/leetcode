@@ -20,6 +20,8 @@
 
 ### [977. 有序数组的平方](./squares-of-a-sorted-array/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [2829. 确定 K-avoiding 数组的最小和](./determine-the-minimum-sum-of-a-k-avoiding-array/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 ## 字符串
 
