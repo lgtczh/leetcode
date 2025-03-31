@@ -97,6 +97,7 @@
         <module>minimize-string-length</module>
         <module>string-to-integer-atoi</module>
         <module>determine-the-minimum-sum-of-a-k-avoiding-array</module>
+        <module>remove-duplicates-from-sorted-list-ii</module>
     </modules>
 
     <properties>

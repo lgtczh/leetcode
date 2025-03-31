@@ -192,6 +192,8 @@
 
 ## 链表
 
+### [82. 删除排序链表中的重复元素 II](./remove-duplicates-from-sorted-list-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [142. 环形链表 II](./linked-list-cycle-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [160. 相交链表](./intersection-of-two-linked-lists/src/main/java/priv/lgtczh/leetcode/Solution.java)
