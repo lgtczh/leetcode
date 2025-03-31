@@ -33,6 +33,8 @@
 
 ### [2109. 向字符串添加空格](./adding-spaces-to-a-string/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [2716. 最小化字符串长度](./minimize-string-length/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 
 ## 贪心算法
 
