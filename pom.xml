@@ -98,6 +98,7 @@
         <module>string-to-integer-atoi</module>
         <module>determine-the-minimum-sum-of-a-k-avoiding-array</module>
         <module>remove-duplicates-from-sorted-list-ii</module>
+        <module>check-if-bitwise-or-has-trailing-zeros</module>
     </modules>
 
     <properties>

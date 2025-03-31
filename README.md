@@ -208,5 +208,11 @@
 
 ### [47. 全排列 II](./permutations-ii/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+
+## 位运算
+
+### [2980. 检查按位或是否存在尾随零](./check-if-bitwise-or-has-trailing-zeros/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
