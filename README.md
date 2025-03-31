@@ -162,27 +162,29 @@
 
 ## 二叉树
 
-#### [94. 二叉树的中序遍历](binary-tree-inorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [94. 二叉树的中序遍历](binary-tree-inorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [98. 验证二叉搜索树](validate-binary-search-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [98. 验证二叉搜索树](validate-binary-search-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [101. 对称二叉树](symmetric-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [101. 对称二叉树](symmetric-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [108. 将有序数组转换为二叉搜索树](convert-sorted-array-to-binary-search-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [108. 将有序数组转换为二叉搜索树](convert-sorted-array-to-binary-search-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [110. 平衡二叉树](balanced-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [110. 平衡二叉树](balanced-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [111. 二叉树的最小深度](minimum-depth-of-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [111. 二叉树的最小深度](minimum-depth-of-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [144. 二叉树的前序遍历](binary-tree-preorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [144. 二叉树的前序遍历](binary-tree-preorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [145. 二叉树的后序遍历](binary-tree-postorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [145. 二叉树的后序遍历](binary-tree-postorder-traversal/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [257. 二叉树的所有路径](binary-tree-paths/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [257. 二叉树的所有路径](binary-tree-paths/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [404. 左叶子之和](sum-of-left-leaves/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [404. 左叶子之和](sum-of-left-leaves/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
-#### [450. 删除二叉搜索树中的节点](delete-node-in-a-bst/src/main/java/priv/lgtczh/leetcode/Solution.java)
+### [450. 删除二叉搜索树中的节点](delete-node-in-a-bst/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+### [958. 二叉树的完全性检验](./check-completeness-of-a-binary-tree/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ## 栈与队列
 

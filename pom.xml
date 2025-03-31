@@ -99,6 +99,7 @@
         <module>determine-the-minimum-sum-of-a-k-avoiding-array</module>
         <module>remove-duplicates-from-sorted-list-ii</module>
         <module>check-if-bitwise-or-has-trailing-zeros</module>
+        <module>check-completeness-of-a-binary-tree</module>
     </modules>
 
     <properties>
