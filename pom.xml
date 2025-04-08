@@ -100,6 +100,7 @@
         <module>remove-duplicates-from-sorted-list-ii</module>
         <module>check-if-bitwise-or-has-trailing-zeros</module>
         <module>check-completeness-of-a-binary-tree</module>
+        <module>minimum-number-of-operations-to-make-elements-in-array-distinct</module>
     </modules>
 
     <properties>

@@ -22,6 +22,7 @@
 
 ### [2829. 确定 K-avoiding 数组的最小和](./determine-the-minimum-sum-of-a-k-avoiding-array/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
+### [3396. 使数组中所有元素都唯一的最小操作数](./minimum-number-of-operations-to-make-elements-in-array-distinct/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ## 字符串
 
