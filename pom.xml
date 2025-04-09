@@ -101,6 +101,7 @@
         <module>check-if-bitwise-or-has-trailing-zeros</module>
         <module>check-completeness-of-a-binary-tree</module>
         <module>minimum-number-of-operations-to-make-elements-in-array-distinct</module>
+        <module>minimum-operations-to-make-array-values-equal-to-k</module>
     </modules>
 
     <properties>

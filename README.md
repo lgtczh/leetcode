@@ -4,6 +4,8 @@
 
 ## 数组
 
+### [使数组元素全部等于k的最小操作数](./minimum-operations-to-make-array-values-equal-to-k/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [18. 四数之和](four-sum/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 ### [26. 删除有序数组中的重复项](./remove-duplicates-from-sorted-array/src/main/java/priv/lgtczh/leetcode/Solution.java)
