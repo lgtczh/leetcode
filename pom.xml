@@ -103,6 +103,7 @@
         <module>minimum-number-of-operations-to-make-elements-in-array-distinct</module>
         <module>minimum-operations-to-make-array-values-equal-to-k</module>
         <module>number-of-connected-components-in-an-undirected-graph</module>
+        <module>count-symmetric-integers</module>
     </modules>
 
     <properties>

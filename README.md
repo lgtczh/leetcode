@@ -229,3 +229,8 @@
 
 > ## 参考文档
 > [代码随想录](https://programmercarl.com/)
+
+
+## 数学
+
+### [2843. 统计对称整数的数目](./count-symmetric-integers/src/main/java/priv/lgtczh/leetcode/Solution.java)
