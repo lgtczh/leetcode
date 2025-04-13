@@ -104,6 +104,7 @@
         <module>minimum-operations-to-make-array-values-equal-to-k</module>
         <module>number-of-connected-components-in-an-undirected-graph</module>
         <module>count-symmetric-integers</module>
+        <module>count-good-numbers</module>
     </modules>
 
     <properties>

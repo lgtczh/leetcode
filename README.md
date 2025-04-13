@@ -227,10 +227,12 @@
 ### [323. 无向图中连通分量的数目](./number-of-connected-components-in-an-undirected-graph/src/main/java/priv/lgtczh/leetcode/Solution.java)
 
 
-> ## 参考文档
-> [代码随想录](https://programmercarl.com/)
-
-
 ## 数学
 
+### [1922. 统计好数字的数目](./count-good-numbers/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
 ### [2843. 统计对称整数的数目](./count-symmetric-integers/src/main/java/priv/lgtczh/leetcode/Solution.java)
+
+
+> ## 参考文档
+> [代码随想录](https://programmercarl.com/)
